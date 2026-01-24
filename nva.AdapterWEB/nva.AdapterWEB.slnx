@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../nva.Canonico/nva.Canonico.csproj" Id="a4e54d05-fd90-44d4-97bb-ede5c7f547b5" />
+  <Project Path="nva.AdapterWEB.csproj" Id="82b1fdf2-f906-420f-a7df-ce8480cb8959" />
+</Solution>

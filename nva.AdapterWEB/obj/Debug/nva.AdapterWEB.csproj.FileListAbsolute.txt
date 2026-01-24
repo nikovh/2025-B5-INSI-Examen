@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterWEB\bin\Debug\nva.AdapterWEB.exe.config
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterWEB\bin\Debug\nva.AdapterWEB.exe
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterWEB\bin\Debug\nva.AdapterWEB.pdb
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterWEB\obj\Debug\nva.AdapterWEB.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterWEB\obj\Debug\nva.AdapterWEB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterWEB\obj\Debug\nva.AdapterWEB.exe
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterWEB\obj\Debug\nva.AdapterWEB.pdb

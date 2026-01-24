@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterXML\bin\Debug\nva.AdapterXML.exe.config
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterXML\bin\Debug\nva.AdapterXML.exe
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterXML\bin\Debug\nva.AdapterXML.pdb
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterXML\obj\Debug\nva.AdapterXML.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterXML\obj\Debug\nva.AdapterXML.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterXML\obj\Debug\nva.AdapterXML.exe
+C:\Users\Administrator\Desktop\insi-exam\nva.AdapterXML\obj\Debug\nva.AdapterXML.pdb

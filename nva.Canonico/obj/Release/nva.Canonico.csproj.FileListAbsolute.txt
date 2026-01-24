@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\insi-exam\nva.Canonico\bin\Release\nva.Canonico.dll
+C:\Users\Administrator\Desktop\insi-exam\nva.Canonico\bin\Release\nva.Canonico.pdb
+C:\Users\Administrator\Desktop\insi-exam\nva.Canonico\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\insi-exam\nva.Canonico\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\insi-exam\nva.Canonico\obj\Release\nva.Canonico.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\insi-exam\nva.Canonico\obj\Release\nva.Canonico.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\insi-exam\nva.Canonico\obj\Release\nva.Cano.11908E4E.Up2Date
+C:\Users\Administrator\Desktop\insi-exam\nva.Canonico\obj\Release\nva.Canonico.dll
+C:\Users\Administrator\Desktop\insi-exam\nva.Canonico\obj\Release\nva.Canonico.pdb
