@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\insi-exam\\nva.TranslatorXML\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\2025-B5-INSI-Examen\\nva.TranslatorXML\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA603143-1F1B-4D75-A4C3-F6A9BDBEFFFF}|nva.TranslatorXML.csproj|c:\\users\\administrator\\desktop\\insi-exam\\nva.translatorxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA603143-1F1B-4D75-A4C3-F6A9BDBEFFFF}|nva.TranslatorXML.csproj|c:\\users\\administrator\\desktop\\2025-b5-insi-examen\\nva.translatorxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA603143-1F1B-4D75-A4C3-F6A9BDBEFFFF}|nva.TranslatorXML.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\insi-exam\\nva.TranslatorXML\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025-B5-INSI-Examen\\nva.TranslatorXML\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\insi-exam\\nva.TranslatorXML\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\2025-B5-INSI-Examen\\nva.TranslatorXML\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAJsAAAAAAAAAAAA9wLYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAowLYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T01:47:39.094Z",
               "EditorCaption": ""

@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="CanonicoJson.cs" />
     <Compile Include="Enums.cs" />
+    <Compile Include="EstadoCuentaCanonico.cs" />
     <Compile Include="PagoCanonico.cs" />
     <Compile Include="PagoMeta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -10,3 +10,15 @@ C:\Users\Administrator\Desktop\insi-exam\nva.TranslatorWEB\obj\Debug\nva.Transla
 C:\Users\Administrator\Desktop\insi-exam\nva.TranslatorWEB\obj\Debug\nva.Tran.89E57FE9.Up2Date
 C:\Users\Administrator\Desktop\insi-exam\nva.TranslatorWEB\obj\Debug\nva.TranslatorWEB.exe
 C:\Users\Administrator\Desktop\insi-exam\nva.TranslatorWEB\obj\Debug\nva.TranslatorWEB.pdb
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\bin\Debug\nva.TranslatorWEB.exe.config
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\bin\Debug\nva.TranslatorWEB.exe
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\bin\Debug\nva.TranslatorWEB.pdb
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\bin\Debug\nva.Canonico.dll
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\bin\Debug\nva.Canonico.pdb
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\obj\Debug\nva.TranslatorWEB.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\obj\Debug\nva.TranslatorWEB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\obj\Debug\nva.Tran.89E57FE9.Up2Date
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\obj\Debug\nva.TranslatorWEB.exe
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorWEB\obj\Debug\nva.TranslatorWEB.pdb

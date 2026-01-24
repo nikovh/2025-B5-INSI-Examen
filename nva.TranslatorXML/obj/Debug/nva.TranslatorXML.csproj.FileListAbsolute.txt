@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\bin\Debug\nva.TranslatorXML.exe.config
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\bin\Debug\nva.TranslatorXML.exe
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\bin\Debug\nva.TranslatorXML.pdb
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\bin\Debug\nva.Canonico.dll
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\bin\Debug\nva.Canonico.pdb
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\obj\Debug\nva.TranslatorXML.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\obj\Debug\nva.TranslatorXML.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\obj\Debug\nva.Tran.BD1FAF06.Up2Date
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\obj\Debug\nva.TranslatorXML.exe
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.TranslatorXML\obj\Debug\nva.TranslatorXML.pdb

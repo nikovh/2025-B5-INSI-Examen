@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\insi-exam\\nva.Canonico\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\2025-B5-INSI-Examen\\nva.Canonico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4E54D05-FD90-44D4-97BB-EDE5C7F547B5}|nva.Canonico.csproj|c:\\users\\administrator\\desktop\\insi-exam\\nva.canonico\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4E54D05-FD90-44D4-97BB-EDE5C7F547B5}|nva.Canonico.csproj|c:\\users\\administrator\\desktop\\2025-b5-insi-examen\\nva.canonico\\estadocuentacanonico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E54D05-FD90-44D4-97BB-EDE5C7F547B5}|nva.Canonico.csproj|solutionrelative:estadocuentacanonico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E54D05-FD90-44D4-97BB-EDE5C7F547B5}|nva.Canonico.csproj|C:\\Users\\Administrator\\Desktop\\2025-B5-INSI-Examen\\nva.Canonico\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4E54D05-FD90-44D4-97BB-EDE5C7F547B5}|nva.Canonico.csproj|solutionrelative:enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +23,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EstadoCuentaCanonico.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025-B5-INSI-Examen\\nva.Canonico\\EstadoCuentaCanonico.cs",
+              "RelativeDocumentMoniker": "EstadoCuentaCanonico.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\2025-B5-INSI-Examen\\nva.Canonico\\EstadoCuentaCanonico.cs",
+              "RelativeToolTip": "EstadoCuentaCanonico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T19:31:02.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Enums.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\insi-exam\\nva.Canonico\\Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025-B5-INSI-Examen\\nva.Canonico\\Enums.cs",
               "RelativeDocumentMoniker": "Enums.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\insi-exam\\nva.Canonico\\Enums.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\2025-B5-INSI-Examen\\nva.Canonico\\Enums.cs",
               "RelativeToolTip": "Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T01:40:06.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T01:40:06.379Z"
             }
           ]
         }

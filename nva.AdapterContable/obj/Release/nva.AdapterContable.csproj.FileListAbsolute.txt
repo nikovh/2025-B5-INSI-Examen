@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\bin\Release\nva.AdapterContable.exe.config
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\bin\Release\nva.AdapterContable.exe
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\bin\Release\nva.AdapterContable.pdb
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\bin\Release\nva.Canonico.dll
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\bin\Release\nva.Canonico.pdb
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\obj\Release\nva.AdapterContable.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\obj\Release\nva.AdapterContable.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\obj\Release\nva.Adap.61885144.Up2Date
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\obj\Release\nva.AdapterContable.exe
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.AdapterContable\obj\Release\nva.AdapterContable.pdb
