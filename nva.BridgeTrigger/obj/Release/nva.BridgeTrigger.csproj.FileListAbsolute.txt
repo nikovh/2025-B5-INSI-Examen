@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.BridgeTrigger\bin\Release\nva.BridgeTrigger.exe.config
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.BridgeTrigger\bin\Release\nva.BridgeTrigger.exe
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.BridgeTrigger\bin\Release\nva.BridgeTrigger.pdb
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.BridgeTrigger\obj\Release\nva.BridgeTrigger.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.BridgeTrigger\obj\Release\nva.BridgeTrigger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.BridgeTrigger\obj\Release\nva.BridgeTrigger.exe
+C:\Users\Administrator\Desktop\2025-B5-INSI-Examen\nva.BridgeTrigger\obj\Release\nva.BridgeTrigger.pdb
