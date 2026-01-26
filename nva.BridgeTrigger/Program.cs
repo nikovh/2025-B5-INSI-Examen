@@ -17,7 +17,7 @@ namespace nva.BridgeTrigger
         private const string ArtemisPort = "61616";
         private const string ArtemisUser = "nicolas";
         private const string ArtemisPass = "hola";
-        private const string ArtemisQueue = "nva_artemis_estado_cuenta";
+        private const string topicName = "nva_amq_estado_cuenta";
 
         static int Main(string[] args)
         {
@@ -59,7 +59,7 @@ namespace nva.BridgeTrigger
                 string b64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(body));
 
                 string arguments =
-                    $"-jar \"{JarPath}\" {ArtemisHost} {ArtemisPort} {ArtemisUser} {ArtemisPass} {ArtemisQueue} {b64}";
+                    $"-jar \"{JarPath}\" {ArtemisHost} {ArtemisPort} {ArtemisUser} {ArtemisPass} {topicName} {b64}";
 
                 Log("CMD=" + JavaExePath + " " + Truncate(arguments, 500));
 
