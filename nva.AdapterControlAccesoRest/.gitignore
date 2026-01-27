@@ -1,0 +1,8 @@
+# Maven / Java build
+target/
+*.class
+*.log
+
+# Env
+.env
+EOF
